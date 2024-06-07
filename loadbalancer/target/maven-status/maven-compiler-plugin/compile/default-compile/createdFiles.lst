@@ -1,0 +1,7 @@
+pt/ulisboa/tecnico/cnv/loadbalancer/Main.class
+pt/ulisboa/tecnico/cnv/loadbalancer/AmazonDynamoDBHandler.class
+pt/ulisboa/tecnico/cnv/loadbalancer/DefaultHandler.class
+pt/ulisboa/tecnico/cnv/loadbalancer/LoadBalancer.class
+pt/ulisboa/tecnico/cnv/loadbalancer/Worker.class
+pt/ulisboa/tecnico/cnv/loadbalancer/DefaultHandler$1.class
+pt/ulisboa/tecnico/cnv/loadbalancer/AutoScaler.class

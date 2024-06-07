@@ -1,0 +1,6 @@
+/Users/goncalofrazao/cloud-computing/project/loadbalancer/src/main/java/pt/ulisboa/tecnico/cnv/loadbalancer/Worker.java
+/Users/goncalofrazao/cloud-computing/project/loadbalancer/src/main/java/pt/ulisboa/tecnico/cnv/loadbalancer/AutoScaler.java
+/Users/goncalofrazao/cloud-computing/project/loadbalancer/src/main/java/pt/ulisboa/tecnico/cnv/loadbalancer/Main.java
+/Users/goncalofrazao/cloud-computing/project/loadbalancer/src/main/java/pt/ulisboa/tecnico/cnv/loadbalancer/LoadBalancer.java
+/Users/goncalofrazao/cloud-computing/project/loadbalancer/src/main/java/pt/ulisboa/tecnico/cnv/loadbalancer/AmazonDynamoDBHandler.java
+/Users/goncalofrazao/cloud-computing/project/loadbalancer/src/main/java/pt/ulisboa/tecnico/cnv/loadbalancer/DefaultHandler.java
